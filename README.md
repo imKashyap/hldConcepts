@@ -12,7 +12,8 @@ Also check:
 2. [Latency vs Throughput vs Bandwidth](https://algomaster.io/learn/system-design/latency-vs-throughput)
 3. [Consistent Hashing](https://www.hellointerview.com/learn/system-design/core-concepts/consistent-hashing)
 4. [CQRS](https://www.geeksforgeeks.org/system-design/cqrs-command-query-responsibility-segregation/)
-5. [Scaling from 0 to millions of users](https://algomaster.io/learn/system-design/scalability)
+5. [LB Algorithms](https://www.geeksforgeeks.org/system-design/load-balancing-algorithms/)
+6. [Scaling from 0 to millions of users](https://algomaster.io/learn/system-design/scalability)
 
 
 ## 🌐 Networking Fundamentals
