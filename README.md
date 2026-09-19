@@ -15,6 +15,7 @@ Also check:
 4. [CQRS](https://www.geeksforgeeks.org/system-design/cqrs-command-query-responsibility-segregation/)
 5. [Scaling from 0 to millions of users](https://algomaster.io/learn/system-design/scalability)
 6. [Monolith vs Microservices](https://www.geeksforgeeks.org/software-engineering/monolithic-vs-microservices-architecture/)
+7. [Scaling from 0 to millions of users](https://algomaster.io/learn/system-design/scalability)
 
 ## Scalability
 
@@ -70,8 +71,11 @@ Also check:
 12. [Concurrency Control II](https://www.databricks.com/blog/concurrency-control)
 13. [Bloom Filters](https://algomaster.io/learn/system-design/bloom-filters)
 14. [ElasticSearch](https://www.hellointerview.com/learn/system-design/deep-dives/elasticsearch)
-15. [Cassandra](https://www.hellointerview.com/learn/system-design/deep-dives/cassandra)
-16. [DynamoDB](https://www.hellointerview.com/learn/system-design/deep-dives/dynamodb)
+15. [PostgreSQL](https://algomaster.io/learn/system-design-interviews/postgresql)
+16. [MySQL](https://algomaster.io/learn/system-design-interviews/mysql)
+17. [MongoDB](https://algomaster.io/learn/system-design-interviews/mongodb)
+18. [Cassandra](https://www.hellointerview.com/learn/system-design/deep-dives/cassandra)
+19. [DynamoDB](https://www.hellointerview.com/learn/system-design/deep-dives/dynamodb)
 
 ## ⚡ Caching Fundamentals
 
