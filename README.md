@@ -14,9 +14,8 @@ Also check:
 3. [Sharding](https://www.hellointerview.com/learn/system-design/core-concepts/sharding)
 4. [Consistent Hashing](https://www.hellointerview.com/learn/system-design/core-concepts/consistent-hashing)
 5. [CQRS](https://www.geeksforgeeks.org/system-design/cqrs-command-query-responsibility-segregation/)
-6. [Scaling from 0 to millions of users](https://algomaster.io/learn/system-design/scalability)
-7. [Monolith vs Microservices](https://www.geeksforgeeks.org/software-engineering/monolithic-vs-microservices-architecture/)
-8. [Scaling from 0 to millions of users](https://algomaster.io/learn/system-design/scalability)
+6. [Monolith vs Microservices](https://www.geeksforgeeks.org/software-engineering/monolithic-vs-microservices-architecture/)
+7. [Scaling from 0 to millions of users](https://algomaster.io/learn/system-design/scalability)
 
 ## Scalability
 
