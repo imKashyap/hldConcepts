@@ -52,7 +52,6 @@ Also check:
 4. [gRPC Deep Dive](https://grpc.io/docs/what-is-grpc/introduction/)
 5. [GraphQL Deep Dive](https://medium.com/@msmt0452/mastering-graphql-a-zero-to-hero-deep-dive-349537728f94)
 6. [Rest vs gRPC vs GraphQL](https://www.geeksforgeeks.org/blogs/graphql-vs-rest-vs-soap-vs-grpc/)
-7. [Pagination](https://medium.com/@khanshahid9283/mastering-api-pagination-best-practices-for-performance-scalability-ca16980bc8f0)
 
 ## 🗄️ Database Fundamentals
 
