@@ -48,12 +48,11 @@ Also check:
 
 1. [API Design](https://www.hellointerview.com/learn/system-design/core-concepts/api-design)
 2. [API Gateway](https://www.hellointerview.com/learn/system-design/deep-dives/api-gateway)
-3. [REST API Design](https://medium.com/@khanshahid9283/rest-api-guidelines-a-comprehensive-guide-to-designing-robust-apis-8e693877d92d)
-4. [Idempotency in REST APIs](https://medium.com/@reetesh043/rest-api-design-what-is-idempotency-18218e1ff73c)
-5. [gRPC Deep Dive](https://grpc.io/docs/what-is-grpc/introduction/)
-6. [GraphQL Deep Dive](https://medium.com/@msmt0452/mastering-graphql-a-zero-to-hero-deep-dive-349537728f94)
-7. [Rest vs gRPC vs GraphQL](https://www.geeksforgeeks.org/blogs/graphql-vs-rest-vs-soap-vs-grpc/)
-8. [Pagination](https://medium.com/@khanshahid9283/mastering-api-pagination-best-practices-for-performance-scalability-ca16980bc8f0)
+3. [Idempotency in REST APIs](https://medium.com/@reetesh043/rest-api-design-what-is-idempotency-18218e1ff73c)
+4. [gRPC Deep Dive](https://grpc.io/docs/what-is-grpc/introduction/)
+5. [GraphQL Deep Dive](https://medium.com/@msmt0452/mastering-graphql-a-zero-to-hero-deep-dive-349537728f94)
+6. [Rest vs gRPC vs GraphQL](https://www.geeksforgeeks.org/blogs/graphql-vs-rest-vs-soap-vs-grpc/)
+7. [Pagination](https://medium.com/@khanshahid9283/mastering-api-pagination-best-practices-for-performance-scalability-ca16980bc8f0)
 
 ## 🗄️ Database Fundamentals
 
